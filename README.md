@@ -66,7 +66,7 @@ The trained model generated a stable $\mathbf{30}$-day forecast (the dashed line
 To run the accompanying `.ipynb` notebook, install the necessary libraries using the following command in a notebook cell or your terminal:
 
 ### 2.1 Create env file
-``` bash
+
 python -m venv sales_env
 
 
@@ -74,5 +74,6 @@ python -m venv sales_env
 
 ```bash
 pip install -r requirements.txt
+
 
 
